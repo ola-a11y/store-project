@@ -3,7 +3,7 @@ import Logo from '../assets/logo.png';
 import map from '../assets/map.png';
 import phone from '../assets/phone-call.png';
 import massege from '../assets/massege.png';
-import login from '../assets/Login-.png';
+import login from "../assets/login.png"
 import about from '../assets/female.png';
 
 function Footer() {
